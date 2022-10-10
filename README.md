@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me: you can send an email to gustavotp443@gmail.com
+- Python, Dart, Flutter, CSS , HTML, Javascript
