@@ -3,15 +3,11 @@
 <h2>Hiii! I´m Gustavo. 👋</h2>
 <br>
 </div>
-<div align="center" dir="auto" style="display:flex" >
-<div>
+<div align="center" dir="auto">
 <a href="https://github.com/Gustavotp443">
-<img src="https://github-readme-stats.vercel.app/api?username=gustavotp443&show_icons=true&theme=tokyonight" height="180px" style="max-width:100%"/>
-</div>
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavotp443&layout=compact&theme=tokyonight" height="180px" style="max-width:100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gustavotp443&show_icons=true&theme=tokyonight" height="180px" width="450px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavotp443&layout=compact&theme=tokyonight" height="180px" width="450px;"/>
 </a>
-</div>
 </div>
 <br>
 
