@@ -1,18 +1,9 @@
 <article>
 <div dir="auto">
 <h2>Hiii! I´m Gustavo. 👋</h2>
-</div>
-<style>
-    .flex{
-       display:flex;
-    }
-</style>
-<article>
-<div dir="auto">
-<h2>Hiii! I´m Gustavo. 👋</h2>
 <br>
 </div>
-<div align="center" dir="auto" class="flex" >
+<div align="center" dir="auto" style="display:flex" >
 <div>
 <a href="https://github.com/Gustavotp443">
 <img src="https://github-readme-stats.vercel.app/api?username=gustavotp443&show_icons=true&theme=tokyonight" height="180px" style="max-width:100%"/>
