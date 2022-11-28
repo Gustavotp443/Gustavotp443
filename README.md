@@ -23,8 +23,8 @@
  
   <div>
 <p style="font-size:20px;">Future Web Developer Full Stack 🚀😎
-<!-- </div>
+</div>
   
-  ![Snake animation](https://github.com/gustavotp443/gustavotp443/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Gustavotp443/Gustavotp443/blob/main/Workflow/snake.svg)
  
-</div> -->
+</div>
